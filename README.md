@@ -3,5 +3,7 @@
 - Behringer Mixer X302USB
 - M-audio FastTrack
 - Acer Veriton X1800
+- Orico BTA-508
+- Orico BTA-408
 
 
