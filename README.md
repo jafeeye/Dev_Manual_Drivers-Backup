@@ -16,5 +16,6 @@
 - Sony DualShock 4
 - Logitech K580/K375s/M580/MK240 Nano [Logitech Option]
 - Logitech C310
+- BarraCuda Q1 SSD
 
 
