@@ -12,5 +12,7 @@
 - Orico BTA-508 [Realtek 8761B]
 - Lexicon Alpha [Alpha Driver v2.7 20110525]
 - XBox One S Controller
+- Sony Dualshock 3
+- Sony DualShock 4
 
 
