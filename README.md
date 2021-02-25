@@ -7,6 +7,6 @@
 - Orico BTA-403 [CSR8510]
 - Orico BTA-409 [CSR8510]
 - Orico BTA-508 [Realtek 8761B]
-
+- Lexicon Alpha [Alpha Driver v2.7 20110525]
 
 
