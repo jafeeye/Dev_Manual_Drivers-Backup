@@ -3,6 +3,8 @@
 - Behringer Mixer X302USB
 - M-audio FastTrack
 - M-audio M-Track
+- M-Audio Keystation
+- M-Audio Keystation
 - Acer Aspire X1800
 - Acer Veriton VX6630G
 - Orico BTA-403 [CSR8510]
