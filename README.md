@@ -14,5 +14,6 @@
 - XBox One S Controller
 - Sony Dualshock 3
 - Sony DualShock 4
+- Logitech K580/K375s/M580/MK230 Nano [Logitech Option]
 
 
