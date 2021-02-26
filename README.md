@@ -24,4 +24,10 @@
 - Alctron
 - 
 
-
+# CPU 清單
+- Pentium E6700
+- Core2 Q6600 售出
+- Core2 Q6600
+- Core2 Q8200 
+- Core2 E7300
+- Pentium E2200 [Aspire ]
