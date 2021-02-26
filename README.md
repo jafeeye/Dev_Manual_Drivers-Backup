@@ -25,7 +25,7 @@
 - 
 
 # CPU 清單
-- Pentium E6700
+- Pentium E6700 (暫用於Aspire X1800)
 - Core2 Q6600 售出
 - Core2 Q6600
 - Core2 Q8200 
