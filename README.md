@@ -18,5 +18,6 @@
 - Logitech C310
 - BarraCuda Q1 SSD
 - Xenyx 302USBFD
+- Acer Swift SF314-56G
 
 
