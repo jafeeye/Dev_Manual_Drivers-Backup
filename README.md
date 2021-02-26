@@ -5,7 +5,7 @@
 - M-audio M-Track
 - M-Audio Keystation
 - M-Audio Keystation
-- Acer Aspire X1800
+- Acer Aspire X1800 (裡面硬碟接口要斷裂，須小心)
 - Acer Veriton VX6630G
 - Orico BTA-403 [CSR8510]
 - Orico BTA-409 [CSR8510]
