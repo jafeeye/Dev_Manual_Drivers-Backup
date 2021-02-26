@@ -29,5 +29,5 @@
 - Core2 Q6600 售出
 - Core2 Q6600
 - Core2 Q8200 
-- Core2 E7300
+- Core2 E7300 惜物網電腦
 - Pentium E2200 [Aspire ]
