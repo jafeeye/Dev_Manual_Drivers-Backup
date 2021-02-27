@@ -22,7 +22,8 @@
 - Rapoo 
 - Edifier
 - Alctron
-- 
+- Ralink 802.11n USB Wireless Lan Card RT5370
+- Mi Wifi
 
 # CPU 清單
 - Pentium E6700 (暫用於Aspire X1800)
