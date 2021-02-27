@@ -26,6 +26,7 @@
 - 小米隨身WiFi
 - PowerSync TPS366BN0045
 - 小米經典商務雙肩包2
+- WiseCam
 
 # CPU 清單
 - Pentium E6700 (暫用於Aspire X1800)
