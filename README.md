@@ -23,7 +23,7 @@
 - Edifier
 - Alctron
 - Ralink 802.11n USB Wireless Lan Card RT5370
-- Mi Wifi
+- 小米隨身WiFi
 - PowerSync TPS366BN0045
 - 小米經典商務雙肩包2
 
