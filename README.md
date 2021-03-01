@@ -26,6 +26,7 @@
 - 小米隨身WiFi
 - PowerSync TPS366BN0045
 - 小米經典商務雙肩包2
+- 小米迷你雙肩包
 - WiseCam
 
 # CPU 清單
