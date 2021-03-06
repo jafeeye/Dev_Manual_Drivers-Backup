@@ -3,8 +3,9 @@
 - Behringer Mixer X302USB
 - M-audio FastTrack
 - M-audio M-Track
-- M-Audio Keystation
-- M-Audio Keystation
+- M-Audio Keystation 32 Mini
+- M-Audio Keystation 
+- Acer Swift SF314-56G
 - Acer Aspire X1800 (裡面硬碟接口要斷裂，須小心)
 - Acer Veriton VX6630G
 - Orico BTA-403 [CSR8510]
@@ -18,7 +19,6 @@
 - Logitech C310
 - BarraCuda Q1 SSD
 - Xenyx 302USBFD
-- Acer Swift SF314-56G
 - Rapoo 
 - Edifier
 - Alctron
