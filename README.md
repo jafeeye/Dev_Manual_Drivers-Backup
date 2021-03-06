@@ -1,5 +1,5 @@
 # 驅動備份下載
-- Intel AX210 [下載](https://downloadcenter.intel.com/zh-tw/product/204836)
+- Intel Wifi 6E AX210 [下載](https://downloadcenter.intel.com/zh-tw/product/204836)
 - Behringer Xenyx X302USB Mixer
 - M-audio FastTrack
 - M-audio M-Track
