@@ -1,5 +1,6 @@
 # 驅動備份下載
 - Intel Wifi 6E AX210 [下載](https://downloadcenter.intel.com/zh-tw/product/204836)
+- 小米隨身WiFi Xiaomi 802.11n USB Wireless Adapter
 - Behringer Xenyx X302USB Mixer
 - M-audio FastTrack
 - M-audio M-Track
@@ -22,7 +23,6 @@
 - Edifier
 - Alctron
 - Ralink 802.11n USB Wireless Lan Card RT5370
-- 小米隨身WiFi
 - PowerSync TPS366BN0045
 - 小米經典商務雙肩包2
 - 小米迷你雙肩包
