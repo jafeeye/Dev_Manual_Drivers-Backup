@@ -1,6 +1,6 @@
 # 驅動備份下載
 - Intel AX210 [下載](https://downloadcenter.intel.com/zh-tw/product/204836)
-- Behringer Mixer X302USB
+- Behringer Xenyx X302USB Mixer
 - M-audio FastTrack
 - M-audio M-Track
 - M-Audio Keystation 32 Mini
@@ -18,7 +18,6 @@
 - Logitech K580/K375s/M580/MK240 Nano [Logitech Option]
 - Logitech C310
 - BarraCuda Q1 SSD
-- Xenyx 302USBFD
 - Rapoo 
 - Edifier
 - Alctron
