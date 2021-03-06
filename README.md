@@ -1,6 +1,6 @@
 # 驅動備份下載
 - Intel Wifi 6E AX210 [下載](https://downloadcenter.intel.com/zh-tw/product/204836)
-- 小米隨身WiFi Xiaomi 802.11n USB Wireless Adapter
+- 小米隨身WiFi (Xiaomi 802.11n USB Wireless Adapter) 驅動下載
 - Behringer Xenyx X302USB Mixer
 - M-audio FastTrack
 - M-audio M-Track
