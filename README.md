@@ -27,6 +27,7 @@
 - 小米經典商務雙肩包2
 - 小米迷你雙肩包
 - WiseCam
+- SAMURAI新武士ALPHA-X LITE
 
 # CPU 清單
 - Pentium E6700 (暫用於Aspire X1800)
