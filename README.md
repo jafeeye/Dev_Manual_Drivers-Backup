@@ -38,7 +38,8 @@
 - Pentium E2200 [Aspire ]
 
 # 欲購清單
-筆電鋁合金支架
-筆電直立支架
-雙螢幕支架
-HP ProDesk Optiplex Acer Veriton Lenovo m72e
+- 筆電鋁合金支架
+- 筆電直立支架
+- 雙螢幕支架
+- HP ProDesk Optiplex Acer Veriton Lenovo m72e
+- 米家顯示器掛燈
