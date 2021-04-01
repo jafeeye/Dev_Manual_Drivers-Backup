@@ -1,0 +1,85 @@
+;========================================== 
+; BenQ GC2870.INF
+; Copyright (c) 2015, BENQ Corporation
+
+;==========================================
+
+[version]
+signature="$CHICAGO$"
+Class=Monitor
+ClassGuid={4D36E96E-E325-11CE-BFC1-08002BE10318}
+Provider=%BenQ%
+catalogfile=BenQ GC2870.cat
+DriverVer=11/26/2015,1.0
+
+
+[ControlFlags]
+ExcludeFromSelect.NT=Monitor\BNQ78DD
+
+[DestinationDirs]
+DefaultDestDir  = 11
+BenQ GC2870.copyfiles = 23
+
+[SourceDisksNames]
+1=%diskname%,,
+
+[SourceDisksFiles]
+BenQ GC2870.icm=1
+
+
+[Monitor_Service.Install]
+DisplayName    = %Monitor.SVCDESC%
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+StartType      = 3               ; SERVICE_DEMAND_START
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\monitor.sys
+
+
+[Manufacturer]
+%BenQ%=BenQ,NTx86,NTAMD64
+
+[BenQ] 
+%BenQ GC2870%=BenQ GC2870.Install, Monitor\BNQ78DD
+
+[BenQ.NTx86] 
+%BenQ GC2870%=BenQ GC2870.Install, Monitor\BNQ78DD
+
+[BenQ.NTAMD64] 
+%BenQ GC2870%=BenQ GC2870.Install, Monitor\BNQ78DD
+
+
+[BenQ GC2870.Install]
+DelReg=DEL_CURRENT_REG
+AddReg=BenQ GC2870.AddReg
+CopyFiles=BenQ GC2870.CopyFiles
+
+[BenQ GC2870.Install.Services]
+AddService = monitor, %SPSVCINST_ASSOCSERVICE%,Monitor_Service.Install
+
+
+[DEL_CURRENT_REG]
+HKR,MODES
+HKR,,MaxResolution
+HKR,,DPMS
+HKR,,ICMProfile
+
+
+[BenQ GC2870.AddReg]
+HKR,"MODES\1920,1080",Mode1,,"30-83.0,50.0-76.0,-,+"
+HKR,,MaxResolution,,"1920,1080"
+HKR,,DPMS,,1
+HKR,,ICMProfile,0,"BenQ GC2870.icm"
+
+
+[BenQ GC2870.CopyFiles]
+BenQ GC2870.ICM
+
+
+[Strings]
+SPSVCINST_ASSOCSERVICE = 0x00000002
+Monitor.SVCDESC = "Microsoft Monitor Class Function Driver Service"
+
+BenQ="BenQ"
+diskname="BenQ LCD Monitor installation diskette"
+
+BenQ GC2870="BenQ GC2870"
